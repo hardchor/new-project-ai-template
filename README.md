@@ -13,7 +13,7 @@ The file [@new-project-setup.md](./docs/new-project-setup.md) provides a detaile
 3. Embody best practices in folder structure, coding style, checklist-based development, and environment setup.  
 4. Follow a clearly defined, phase-by-phase plan for implementing each feature set in both frontend and backend contexts.
 
-By reading and following each step in @new-project-setup.md, you’ll quickly bootstrap a robust environment for ChatGenius, ensuring all participants or contributors operate with the same architectural understanding, coding guidelines, and clear objectives.
+By reading and following each step in @new-project-setup.md, you’ll quickly bootstrap a robust environment for your project, ensuring all participants or contributors operate with the same architectural understanding, coding guidelines, and clear objectives.
 
 ---
 
