@@ -29,6 +29,8 @@
 Use @project-overview.md to create a document called `user-flow.md`, which should define the user journey through different segments of the application.
 
 The user journey should take into account the different features the app has & how they are connected to one-another. This document will later serve as a guide for building out our project architecture and UI elements.
+
+Ask clarifying questions if needed-- we don't want any embellishments or assumptions.
 ```
 
 
@@ -36,7 +38,7 @@ The user journey should take into account the different features the app has & h
 ```
 Use @project-overview.md and @user-flow.md to make recommendations for our stack. I already know I want to use ___, ___, and ___ (e.g. TypeScript, React, Tailwind).
 
-For each anticipated part of our stack, propose and describe an industry standard and a popular alternative, as well as a list of 1 or more other options. We will work through the list together to determine what we'll use for the project.
+For each anticipated part of our stack, propose and describe an industry standard and a popular alternative. We will work through the list together to determine what we'll use for the project.
 ```
 
 
