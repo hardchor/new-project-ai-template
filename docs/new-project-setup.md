@@ -26,7 +26,7 @@
 
 1. 
 ```
-Use @project-overview.md to create a document called `user-flow.md`, which should define the user journey through different segments of the map (i.e. Auth, Groups, Channels, etc). 
+Use @project-overview.md to create a document called `user-flow.md`, which should define the user journey through different segments of the application.
 
 The user journey should take into account the different features the app has & how they are connected to one-another. This document will later serve as a guide for building out our project architecture and UI elements.
 ```
