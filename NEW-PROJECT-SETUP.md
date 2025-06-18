@@ -24,7 +24,7 @@
 
    - Outline folder structure, file naming conventions, etc.
 
-7. `./phases/` (subdirectory within `.docs/`)
+7. `./phases/` (subdirectory within `_docs/`)
    - Outline the different phases of the project, and the different tasks and features we'll need to complete in order to complete our goal. Each feature (or group of features) should have its own phase document.
 
 ## Below are recommended steps/prompts for creating these files from scratch, with only the project overview to guide you.
@@ -99,7 +99,7 @@ Rules to follow:
 - List features with actionable steps (max 5 steps per feature; break down into smaller features if longer).
 - Keep phases iterative—each builds on the previous phase, enhancing a working product.
 
-Place these documents in `.docs/phases/`. Review @project-overview.md, @user-flow.md, @tech-stack.md, and @project-rules.md to gather relevant context about the project and its features.
+Place these documents in `_docs/phases/`. Review @project-overview.md, @user-flow.md, @tech-stack.md, and @project-rules.md to gather relevant context about the project and its features.
 ```
 
 9. USER ACTION: Make a brief Agent Rules file, which will be a list of rules for the agent to follow (duh). It's recommended that you place this in your Cursor User Rules (CMD + Shift + P > Cursor Settings > Rules > User Rules), and/or make a Cursor Notepad (There should be a section in the bottom left corner of your file tree. If not, use the same command as above to navigate to Cursor Settings and enable Notepads in the "Beta" section). The content will be similar to `project-rules.md`, but auto-attached to every prompt (if you put it in User Rules) or attached at-will if you take the Cursor Notepad approach.
@@ -135,7 +135,7 @@ Code Style and Structure:
 Using @project-overview.md, @user-flow.md, @tech-stack.md, and @project-rules.md, perform an initial update to our README to give a brief overview of our project and its conventions.
 ```
 
-11. USER ACTION: Make sure all these docs are in the right place. You want them all under the `.docs/` folder.
+11. USER ACTION: Make sure all these docs are in the right place. You want them all under the `_docs/` folder.
 
 12. ATTACH: Agent Rules (the Notepad, if you made one), `setup-phase.md` (initial phase doc), `tech-stack.md`, and `project-overview.md`.
 

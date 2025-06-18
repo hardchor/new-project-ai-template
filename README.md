@@ -6,9 +6,9 @@ This repository provides a structured walkthrough for initializing new software 
 
 ## How It Works
 
-The core of this repository is the `new-project-setup.md` file, located in the `.docs/` directory. This document provides a detailed sequence of steps and prompts to guide you through the initial phases of project setup.
+The core of this repository is the `new-project-setup.md` file, located in the `_docs/` directory. This document provides a detailed sequence of steps and prompts to guide you through the initial phases of project setup.
 
-Following the steps in `.docs/new-project-setup.md` will help you:
+Following the steps in `_docs/new-project-setup.md` will help you:
 
 1.  **Define Project Scope:** Start with a high-level project overview to establish goals and context.
 2.  **Create Foundational Documents:** Systematically generate key documents for user flows, technology stack, UI/theme rules, and project conventions.
@@ -19,6 +19,6 @@ By following this guide, you can quickly bootstrap a well-organized and robust f
 
 ---
 
-To get started, open and follow the instructions in `.docs/new-project-setup.md`.
+To get started, open and follow the instructions in `_docs/new-project-setup.md`.
 
 Happy building!
