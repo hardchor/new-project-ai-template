@@ -3,11 +3,11 @@ description: Guidelines for creating and maintaining Github Copilot instructions
 applyTo: "**"
 ---
 
-- **Required Rule Structure:**
+- **Required Instruction Structure:**
 
   ```markdown
   ---
-  description: Clear, one-line description of what the rule enforces
+  description: Clear, one-line description of what the instruction enforces
   applyTo: "\*\*" # or 'path/to/files/\*.ext', 'other/path/\*\*/\*'
   ---
 

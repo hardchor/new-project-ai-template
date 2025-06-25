@@ -102,7 +102,7 @@ Rules to follow:
 Place these documents in `_docs/phases/`. Review @project-overview.md, @user-flow.md, @tech-stack.md, and @project-rules.md to gather relevant context about the project and its features.
 ```
 
-9. USER ACTION: Make a brief Agent Rules file, which will be a list of rules for the agent to follow (duh). It's recommended that you place this in your Cursor User Rules (CMD + Shift + P > Cursor Settings > Rules > User Rules), and/or make a Cursor Notepad (There should be a section in the bottom left corner of your file tree. If not, use the same command as above to navigate to Cursor Settings and enable Notepads in the "Beta" section). The content will be similar to `project-rules.md`, but auto-attached to every prompt (if you put it in User Rules) or attached at-will if you take the Cursor Notepad approach.
+9. USER ACTION: Make a brief Agent Instructions file, which will be a list of instructions for the agent to follow. It's recommended that you place this in your GitHub Copilot instructions (create `.github/copilot-instructions.md` in your project root), or reference it when working with GitHub Copilot. The content will be similar to `project-rules.md`, but provides consistent guidance for AI assistance throughout your project.
 
 ```
 You are an expert in TypeScript, Node.js, NextJS + App Router, React, Shadcn, Radix UI and Tailwind CSS.
@@ -137,7 +137,7 @@ Using @project-overview.md, @user-flow.md, @tech-stack.md, and @project-rules.md
 
 11. USER ACTION: Make sure all these docs are in the right place. You want them all under the `_docs/` folder.
 
-12. ATTACH: Agent Rules (the Notepad, if you made one), `setup-phase.md` (initial phase doc), `tech-stack.md`, and `project-overview.md`.
+12. ATTACH: Agent Instructions (or reference your GitHub Copilot instructions), `setup-phase.md` (initial phase doc), `tech-stack.md`, and `project-overview.md`.
 
 ```
 Let's get started on our project.
